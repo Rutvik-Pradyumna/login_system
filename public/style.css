@@ -1,0 +1,10 @@
+.center-div{
+    padding-top: 10%;
+}
+.btn-cls{
+    margin-top: 20px;
+    padding: 4em 2em;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(131, 248, 13);
+}
